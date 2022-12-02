@@ -16,7 +16,7 @@ To get started perform the following:
 
 (General hint: You can start up an online VSCode IDE in GitHub be simply pressing `.` when you are navigating the repository. Might come in handy later.)
 
-## 2. Integrate Security Activities
+## 2. <TODO: Add>
 
 Okay, now you have the project ready, so lets get our fingers dirty.  
 Following the Definition of Done for continuous security integration from the lecture, you first **define your security use cases**. For our purposes, we start with
